@@ -1,16 +1,51 @@
 // custom
 
+.main {
+  background-color:#f7f6f8;
+  padding: 0px;
+}
+
 .content {
-  width:70%;
+  background-color:#fff;
+  width:68%;
+  border-right:3px dotted $pink-color;
+  padding:2% 2% 2% 0%;
   float:left;
-  border-right:5px solid $pink-color;
-  padding:20px 20px 0px 0px;
+
+  @include media-query($on-palm) {
+    width:96%;
+    border-bottom:3px dotted $pink-color;
+    padding:2%;
+  }
 }
 
 .sidebar {
   width:25%;
-  height:500px;
-  float:left;
-  background-color:#f7f6f8;
-  padding:20px 0px 0px 20px;
+  float:right;
+  padding:2%;
+
+  @include media-query($on-palm) {
+    width:96%;
+    padding:2%;
+  }
+
+  h3 {
+    color: $teal-color-dark;
+    text-transform:uppercase;
+  }
+
+  ul {
+    margin: 0px;
+    li {
+      list-style:none;
+    }
+  }
+
+  .icon > svg path {
+    fill: $pink-color;
+  }
 }
+
+h1, h2, h3, h4, h5, h6 { color: $teal-color-dark; }
+
+h3, h4 { text-transform: uppercase; }
