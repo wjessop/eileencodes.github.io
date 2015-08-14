@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $teal-color-dark;
     min-height: 56px;
+    background-color: $teal-color;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -16,11 +16,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+    font-weight:bold;
 }
 
 .site-nav {
@@ -92,8 +88,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $teal-color-dark;
     padding: $spacing-unit 0;
+    background-color: $teal-color;
 }
 
 .footer-heading {
@@ -161,10 +158,6 @@
 /**
  * Page content
  */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
 .page-heading {
     font-size: 20px;
 }
