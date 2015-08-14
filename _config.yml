@@ -11,6 +11,7 @@ github_username:  eileencodes
 
 # Build settings
 markdown: kramdown
+permalink: "/posts/:title"
 
 defaults:
   -
@@ -19,7 +20,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: "/posts/:title"
   -
     scope:
       path: "speaking"
