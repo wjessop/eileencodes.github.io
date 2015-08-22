@@ -179,6 +179,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    line-height:30px;
 }
 
 
@@ -186,14 +187,9 @@
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
-
 .post-title {
     font-size: 30px;
-    letter-spacing: -1px;
-    line-height: 1;
+    line-height: 35px;
 
     @include media-query($on-laptop) {
         font-size: 36px;

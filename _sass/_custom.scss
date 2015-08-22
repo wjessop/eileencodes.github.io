@@ -50,6 +50,13 @@ header {
       margin:0px 3px;
     }
   }
+  .image {
+    text-align:right;
+    font-size:14px;
+  }
+  img {
+    border: 1px solid $teal-color-dark;
+  }
 }
 
 .sidebar {
