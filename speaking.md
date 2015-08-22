@@ -4,13 +4,20 @@ title: Speaking
 permalink: /speaking/
 ---
 
+<div class="image">
+  <img src="/assets/eileen_goruco_2015.jpg" alt="eileen goruco 2015" />
+  How to Performance talk at GORUCO 2015
+</div>
+
 ## Upcoming Talks
 
 **FullStackFest | Barcelona, Spain | September 1, 2015**  
-*How to Performance*
+*How to Performance*  
+[Conference Website](http://fullstackfest.com/agenda/how-to-performance){:target="_blank"}
 
 **WindyCityRails | Chicago, IL | September 17, 2015**  
-*How to Performance*
+*How to Performance*  
+[Conference Website](https://www.windycityrails.org/schedule/#uchitelle){:target="_blank"}
 
 ## Past Talks
 
@@ -24,7 +31,7 @@ permalink: /speaking/
 
 **RailsConf | Atlanta, GA | April 23, 2015**  
 *Breaking Down the Barrier: Demystifying Contributing to Rails*  
-[Video](http://confreaks.tv/videos/railsconf2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"} | | [Slides](https://speakerdeck.com/eileencodes/railsconf-2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"}
+[Video](http://confreaks.tv/videos/railsconf2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/railsconf-2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"}
 
 **RubyNation | Washington, DC | June 6, 2014**  
 *CRUD! Dear Active Record, It's Not You, It's Me*  
@@ -32,7 +39,7 @@ permalink: /speaking/
 
 **Mountain West Ruby | Salt Lake City, UT | March 21, 2014**  
 *CRUD! What to do When Active Record, MySQL, and Your Data Betray You*  
-[Slides](http://confreaks.tv/videos/mwrc2014-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you){:target="_blank"}
+[Video](http://confreaks.tv/videos/mwrc2014-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you){:target="_blank"}
 
 **Big Ruby | Dallas, TX | February, 2014**  
 *Workshop - CRUD! What to do When Active Record, MySQL, and Your Data Betray You*
