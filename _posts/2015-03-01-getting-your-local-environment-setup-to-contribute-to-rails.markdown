@@ -3,9 +3,9 @@ layout: post
 title: "Getting Your Local Environment Setup to Contribute to Rails"
 date: 2015-03-01 18:56:00
 categories:
-  - learning rails
+  - learning-rails
   - tips
-  - open source
+  - open-source
 ---
 
 At [RailsConf][railsconf]{:target="_blank"} I'll be leading a [workshop][workshop]{:target="_blank"} on contributing to Ruby on Rails called "Breaking Down the Barrier: Demystifying Contributing to Rails". My goal is to help you be confident in your ability to contribute to Rails. I'll be focusing on contributing guidelines, advanced git commands, and traversing unfamiliar source code. I've allotted 90 minutes for the workshop so in order for you to get the most out of it you should have your system ready. In this post I'm going to go over the basics of getting set up.
