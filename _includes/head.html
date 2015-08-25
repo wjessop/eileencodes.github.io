@@ -3,11 +3,26 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+  <meta name="google-site-verification" content="EYDL78pbIclS_cpFovjgs6kHqmKw3sw9xgo19_M42N4" />
+  <meta name="description" content="Eileen Codes is a blog by Eileen M. Uchitelle about developing with and learning Ruby on Rails, a programming framework." />
+  <meta name="keywords" content="Eileen Uchitelle, Uchitelle, Eileen M Uchitelle, Abe Uchitelle, Eileen Codes, Ruby on Rails, Eileen Builds with Rails, Builds with Rails, rails, ruby, new york, new york web developer, hudson valley rails, hudson valley web developer, Eileen Carpenter, Eileen M. Carpenter, web development, rails web development, rails websites, rails blogs, rails blogs new york, rails blog eileen, blog about rails, ruby blog, capistrano, unicorn, nginx" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+  <link rel="author" href="https://plus.google.com/u/0/109313797607962965718/posts" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10013836-6']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
 </head>
