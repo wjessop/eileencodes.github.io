@@ -46,3 +46,12 @@
      </a>
   </li>
 </ul>
+<br />
+
+<h4>Categories</h4>
+<ul>
+  {% assign sorted_cats = site.categories | sort %}
+  {% for category in sorted_cats %}
+  <li><a href="/categories/{{ category | first | prepend: site.baseurl }}">{{ category | first }}</a></li>
+  {% endfor %}
+</ul>
