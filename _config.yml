@@ -29,3 +29,6 @@ defaults:
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
       layout: "page" # overrides previous default layout
+
+gems:
+  - jekyll-sitemap
