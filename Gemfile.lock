@@ -133,6 +133,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 39)
+  jekyll-sitemap
   json
   kramdown
 
