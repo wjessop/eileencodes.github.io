@@ -22,7 +22,7 @@ header {
 
 .main {
   background-color:#f7f6f8;
-  padding: 0px;
+  padding:0px 0px 0px 0px;
 }
 
 .content {
@@ -33,6 +33,11 @@ header {
   border-right:3px dotted $pink-color;
   padding:2% 2% 2% 0%;
   float:left;
+
+  @include media-query($on-laptop) {
+    width:66%;
+    padding-left:2%;
+  }
 
   @include media-query($on-palm) {
     width:96%;
