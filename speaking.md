@@ -11,15 +11,15 @@ permalink: /speaking/
 
 ## Upcoming Talks
 
-**FullStackFest | Barcelona, Spain | September 1, 2015**  
-*How to Performance*  
-[Conference Website](http://fullstackfest.com/agenda/how-to-performance){:target="_blank"}
-
 **WindyCityRails | Chicago, IL | September 17, 2015**  
 *How to Performance*  
 [Conference Website](https://www.windycityrails.org/schedule/#uchitelle){:target="_blank"}
 
 ## Past Talks
+
+**FullStackFest | Barcelona, Spain | September 1, 2015**  
+*How to Performance*  
+[Slides](https://speakerdeck.com/eileencodes/fullstackfest-2015-how-to-performance){:target="_blank"}
 
 **Burlington Ruby | Burlington, VT | August 1, 2015**  
 *How to Performance*  
