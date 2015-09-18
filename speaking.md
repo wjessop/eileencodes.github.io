@@ -11,11 +11,16 @@ permalink: /speaking/
 
 ## Upcoming Talks
 
-**WindyCityRails | Chicago, IL | September 17, 2015**  
+**RubyConf | San Antonio, TX | November 15-17, 2015**  
 *How to Performance*  
-[Conference Website](https://www.windycityrails.org/schedule/#uchitelle){:target="_blank"}
+[Conference Website](http://rubyconf.org/program#prop_1340){:target="_blank"}
+
 
 ## Past Talks
+
+**WindyCityRails | Chicago, IL | September 18, 2015**  
+*How to Performance*  
+[Slides](https://speakerdeck.com/eileencodes/windycityrails-2015-how-to-performance){:target="_blank"}
 
 **FullStackFest | Barcelona, Spain | September 1, 2015**  
 *How to Performance*  
