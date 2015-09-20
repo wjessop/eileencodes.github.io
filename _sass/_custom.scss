@@ -64,6 +64,13 @@ header {
   img {
     border: 1px solid $teal-color-dark;
   }
+
+  aside {
+    background-color:#f7f6f8;
+    font-style:italic;
+    padding:2%;
+    margin-bottom:20px;
+  }
 }
 
 .sidebar {
