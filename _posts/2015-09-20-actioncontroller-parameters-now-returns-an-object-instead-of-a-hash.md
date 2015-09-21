@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rails 5: ActionController::Paramters Now Returns an Object Instead of a Hash"
+title: "Rails 5: ActionController::Parameters Now Returns an Object Instead of a Hash"
 date: 2015-09-20
 categories:
   - rails-5
