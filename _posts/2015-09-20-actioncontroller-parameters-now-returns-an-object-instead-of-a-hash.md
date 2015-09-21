@@ -10,7 +10,7 @@ categories:
 
 A big change coming is how `ActionController::Parameters` works. `ActionController::Parameters` is where all of your `params` come from for your controllers. Calling `params` used to return a hash, but now will return an object.
 
-Note: this doesn't affect accessing the keys in the params hash like `params[:id]`.
+Note: this doesn't affect accessing the keys in the params hash like `params[:id]`. You can view the PR that implemented this change here: [https://github.com/rails/rails/pull/20868](https://github.com/rails/rails/pull/20868){:target="_blank"}
 
 To access the parameters in the object you can add `#to_h` to the parameters:
 
