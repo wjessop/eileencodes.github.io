@@ -6,7 +6,7 @@ permalink: /speaking/
 
 <div class="image">
   <img src="/assets/eileen_goruco_2015.jpg" alt="eileen goruco 2015" />
-  How to Performance talk at GORUCO 2015
+  How to Performance talk at GORUCO 2015. Photo by Jesse Chan-Norris.
 </div>
 
 ## Upcoming Talks
