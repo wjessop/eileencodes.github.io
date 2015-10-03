@@ -20,11 +20,11 @@ permalink: /speaking/
 
 **WindyCityRails | Chicago, IL | September 18, 2015**  
 *How to Performance*  
-[Slides](https://speakerdeck.com/eileencodes/windycityrails-2015-how-to-performance){:target="_blank"}
+[Video](https://www.windycityrails.org/videos/2015/#10){:target =>"_blank"}[Slides](https://speakerdeck.com/eileencodes/windycityrails-2015-how-to-performance){:target="_blank"}
 
 **FullStackFest | Barcelona, Spain | September 1, 2015**  
 *How to Performance*  
-[Slides](https://speakerdeck.com/eileencodes/fullstackfest-2015-how-to-performance){:target="_blank"}
+[Video](https://www.youtube.com/watch?v=HbLPLdLvnVo&feature=youtu.be){:target=>"_blank"}[Slides](https://speakerdeck.com/eileencodes/fullstackfest-2015-how-to-performance){:target="_blank"}
 
 **Burlington Ruby | Burlington, VT | August 1, 2015**  
 *How to Performance*  
