@@ -18,39 +18,48 @@ permalink: /speaking/
 
 ## Past Talks
 
-**WindyCityRails | Chicago, IL | September 18, 2015**  
-*How to Performance*  
-[Video](https://www.windycityrails.org/videos/2015/#10){:target =>"_blank"} | [Slides](https://speakerdeck.com/eileencodes/windycityrails-2015-how-to-performance){:target="_blank"}
+#### How to Performance
 
-**FullStackFest | Barcelona, Spain | September 1, 2015**  
-*How to Performance*  
-[Video](https://www.youtube.com/watch?v=HbLPLdLvnVo&feature=youtu.be){:target=>"_blank"} | [Slides](https://speakerdeck.com/eileencodes/fullstackfest-2015-how-to-performance){:target="_blank"}
+Understanding performance output can feel like reading tea leaves. It makes sense to a few people, but many of us are left in the dark; overwhelmed and frustrated by the data. On top of that there are a ton of performance tools to choose from; StackProf, RubyProf, AllocationTracer. Where do you even start?
 
-**Burlington Ruby | Burlington, VT | August 1, 2015**  
-*How to Performance*  
+While working on speeding up integration tests in Rails source, I learned that the key to improving the performance of Ruby code is having a baseline, not relying on one profiler and understanding the advantages and limitations of your tools. By utilizing these methods, integration tests are now 3 times faster than they were in Rails 4.2.0, with more improvements being made every day.
+
+In this talk we will not only look at how to read performance output, but when and how to use the right profilers for the job. We'll discuss a variety of methods and techniques for benchmarking and profiling so you can get the most out of any performance tool.
+
+<strong>WindyCityRails | Chicago, IL | September 18, 2015</strong>  
+[Video](https://www.windycityrails.org/videos/2015/#10){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/windycityrails-2015-how-to-performance){:target="_blank"}
+
+<strong>FullStackFest | Barcelona, Spain | September 1, 2015</strong>  
+[Video](https://www.youtube.com/watch?v=HbLPLdLvnVo&feature=youtu.be){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/fullstackfest-2015-how-to-performance){:target="_blank"}
+
+<strong>Burlington Ruby | Burlington, VT | August 1, 2015</strong>  
 [Slides](https://speakerdeck.com/eileencodes/burlington-ruby-2015-how-to-performance){:target="_blank"}
 
-**GORUCO | New York, NY | June 20, 2015**  
-*How to Performance*  
+<strong>GORUCO | New York, NY | June 20, 2015</strong>  
 [Video](http://confreaks.tv/videos/goruco2015-how-to-performance){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/goruco-2015-how-to-performance){:target="_blank"}
 
-**RailsConf | Atlanta, GA | April 23, 2015**  
-*Breaking Down the Barrier: Demystifying Contributing to Rails*  
-[Video](http://confreaks.tv/videos/railsconf2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/railsconf-2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"}
+#### Breaking Down the Barrier: Demystifying Contributing to Rails
 
-**RubyNation | Washington, DC | June 6, 2014**  
-*CRUD! Dear Active Record, It's Not You, It's Me*  
+Contributing to Rails for the first time can be terrifying. In this lab I’ll make contributing to Rails more approachable by going over the contributing guidelines and technical details you need to know. We’ll walk through traversing the source code with tools such as CTags, source_location and TracePoint. Additionally, we’ll create reproduction scripts for reporting issues and learn advanced git commands like bisect and squash. At the end of this session you’ll have the confidence to fix bugs and add features to Ruby on Rails.
+
+<strong>RailsConf | Atlanta, GA | April 23, 2015</strong>  
+[Video](http://confreaks.tv/videos/railsconf2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/railsconf-2015-breaking-down-the-barrier-demystifying-contributing-to-rails){:target="_blank"} | [Workshop Repo](https://github.com/eileencodes/railsconf_scripts){:target="_blank"}
+
+#### CRUD! Dear Active Record, It's Not You, It's Me
+
+The magic of ActiveRecord database interactions is easy to rely on and allows us assume it knows best. Without a solid understanding of how ActiveRecord translates into MySQL, however, significant issues can arise. This is particularly true with large data sets and complex model relationships. My talk explores an example for each CRUD function and shows how these queries can result in MySQL timeouts, memory issues or stack level too deep errors. The examples will examine the consequences of chaining large datasets, uses for Arel, and how to avoid encountering major problems and most importantly, how these queries can be rewritten to run more efficiently.
+
+<strong>RubyNation | Washington, DC | June 6, 2014</strong>  
 [Slides](https://speakerdeck.com/eileencodes/crud-dear-active-record-its-not-you-its-me){:target="_blank"}
 
-**Mountain West Ruby | Salt Lake City, UT | March 21, 2014**  
-*CRUD! What to do When Active Record, MySQL, and Your Data Betray You*  
+<strong>Mountain West Ruby | Salt Lake City, UT | March 21, 2014</strong>  
 [Video](http://confreaks.tv/videos/mwrc2014-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you){:target="_blank"}
 
-**Big Ruby | Dallas, TX | February, 2014**  
-*Workshop - CRUD! What to do When Active Record, MySQL, and Your Data Betray You*
+<strong>Big Ruby | Dallas, TX | February, 2014</strong>  
+[Workshop Repo](https://github.com/eileencodes/crud_project){:target="_blank"}
 
 
-## Past Podcasts
+## Podcasts
 
 **The Changelog | May 16, 2015**  
 [#154: All Things Ruby with 2015’s Ruby Heroes](https://changelog.com/154/){:target="_blank"}
