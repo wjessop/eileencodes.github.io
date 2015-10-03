@@ -71,6 +71,13 @@ header {
     padding:2%;
     margin-bottom:20px;
   }
+
+  .video {
+    @include media-query($on-palm) {
+      width:315px;
+      height:177px;
+    }
+  }
 }
 
 .sidebar {
