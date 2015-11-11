@@ -28,7 +28,7 @@ So, how do you use a the new manifest file? In your `app/assets/` directory add 
 
 In the `manifest.js` you'll want to link your JS and CSS directories as well as any other directories you rely on like images, fonts, sounds etc.
 
-Here is an example of a `manfiest.js` that links JS, CSS, fonts, and images.
+Here is an example of a `manifest.js` that links JS, CSS, fonts, and images.
 
 {% highlight js %}
 // JS and CSS bundles
