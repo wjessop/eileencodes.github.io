@@ -11,10 +11,13 @@ permalink: /speaking/
 
 ## Upcoming Talks
 
-**RubyConf | San Antonio, TX | November 15-17, 2015**  
-*How to Performance*  
-[Conference Website](http://rubyconf.org/program#prop_1340){:target="_blank"}
+**Twilio SignalConf | San Francisco, CA | May 24-25, 2016**  
+*TBD*  
+[Conference Website](https://www.twilio.com/signal){:target="_blank"}
 
+**Brighton Ruby | Brighton, UK | July 8, 2016**  
+*TBD*  
+[Conference Website](http://brightonruby.com/){:target="_blank"}
 
 ## Past Talks
 
@@ -25,6 +28,10 @@ Understanding performance output can feel like reading tea leaves. It makes sens
 While working on speeding up integration tests in Rails source, I learned that the key to improving the performance of Ruby code is having a baseline, not relying on one profiler and understanding the advantages and limitations of your tools. By utilizing these methods, integration tests are now 3 times faster than they were in Rails 4.2.0, with more improvements being made every day.
 
 In this talk we will not only look at how to read performance output, but when and how to use the right profilers for the job. We'll discuss a variety of methods and techniques for benchmarking and profiling so you can get the most out of any performance tool.
+
+<strong>RubyConf | San Antonio, TX | November 15-17, 2015</strong>  
+[Slides](https://speakerdeck.com/eileencodes/rubyconf-2015-how-to-performance){:target="_blank"}
+
 
 <strong>WindyCityRails | Chicago, IL | September 18, 2015</strong>  
 [Video](https://www.windycityrails.org/videos/2015/#10){:target="_blank"} | [Slides](https://speakerdeck.com/eileencodes/windycityrails-2015-how-to-performance){:target="_blank"}
