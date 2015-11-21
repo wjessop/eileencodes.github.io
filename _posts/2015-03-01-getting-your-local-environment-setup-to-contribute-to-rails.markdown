@@ -43,7 +43,7 @@ $ git push origin master
 
 Here you are pushing to your origin so your remote origin is always up-to-date with your master branch. Don't work on your master branch and send PR's from there. Always create a new branch. That way you can be working on multiple patches and your master is always clean and ready to checkout a new branch from. Pushing to your origin master also makes it easy to reset any of your branches to master without having to re-pull changes from upstream Rails.
 
-Don't forget to add a <code>.ruby-version</code> file to your Rails repo, but be sure not to check this in. I have a <code>.gitignore_global</code> file that sits in my home directory and ignores all <code>.ruby-version</code> files. Then you should <code>run bundle install</code>.
+Don't forget to add a <code>.ruby-version</code> file to your Rails repo. Then you should <code>run bundle install</code>.
 
 ### Databases
 
