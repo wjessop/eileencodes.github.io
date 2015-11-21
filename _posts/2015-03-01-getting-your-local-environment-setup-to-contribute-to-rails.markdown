@@ -24,7 +24,7 @@ Once you have that set up, install Ruby <del>2.2.1</del> 2.2.2 (2.2.1 had a secu
 
 ### Fork & Clone Rails
 
-Now we'll get the Rails source code set up. First go to [github.com/rails/rails][rails-repo]{:target="_blank"} and click "fork". Some developers prefer to clone the main Rails repo and set up their fork as an upstream, but unless you have push rights to Rails (a commit bit) I don't think this really makes sense. In my opinion having origin set as your repo works best so this guide is going to show you my preferred method.
+Now we'll get the Rails source code set up. First go to the [rails-repo](https://github.com/rails/rails){:target="_blank"} and click "fork". Some developers prefer to clone the main Rails repo and set up their fork as an upstream, but unless you have push rights to Rails (a commit bit) I don't think this really makes sense. In my opinion having origin set as your repo works best so this guide is going to show you my preferred method.
 
 Checkout your version of Rails to your local machine:
 
