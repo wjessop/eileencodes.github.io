@@ -28,7 +28,7 @@ Now we'll get the Rails source code set up. First go to [github.com/rails/rails]
 
 Checkout your version of Rails to your local machine:
 
-<code>$ git clone git@github.com/your-fork/rails.git</code>
+<code>$ git clone git@github.com/your-username/rails.git</code>
 
 You'll need to get Rails master main repo as an upstream to your Rails. To do this simply run:
 
